@@ -1,3 +1,4 @@
+//makes text bigger
 function makeTextBigger() {
     alert("Hello, world!");
     document.getElementById("userText").style.fontSize = "24pt";
